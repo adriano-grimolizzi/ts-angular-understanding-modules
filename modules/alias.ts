@@ -1,0 +1,1 @@
+export var duplicate : string = "alias.ts's duplicate...";

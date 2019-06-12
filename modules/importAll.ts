@@ -1,0 +1,1 @@
+export var duplicate : string = "importAll.ts's duplicate...";
